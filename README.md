@@ -1,4 +1,4 @@
-# DemoFunctionsCustomBinding
+# Demo Azure Functions Custom Binding
 Shows how you can build your own custom binding for Azure Functions.
 
 This is a simple demonstration of how you could build an output binding for Azure Functions to write text files to Amazon's S3 storage platform.
