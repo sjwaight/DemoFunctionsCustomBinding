@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siliconvalve.Demo.S3StorageExtension", "Siliconvalve.Demo.S3Storage\Siliconvalve.Demo.S3StorageExtension.csproj", "{73581C8D-5AD1-48A6-957F-D0E3CAC6D9F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiliconValve.Demo.TestFunctionApp", "SiliconValve.Demo.TestFunctionApp\SiliconValve.Demo.TestFunctionApp.csproj", "{B2A4B6E6-C425-4938-8DE9-E6BC9D84091C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73581C8D-5AD1-48A6-957F-D0E3CAC6D9F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73581C8D-5AD1-48A6-957F-D0E3CAC6D9F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73581C8D-5AD1-48A6-957F-D0E3CAC6D9F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73581C8D-5AD1-48A6-957F-D0E3CAC6D9F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A4B6E6-C425-4938-8DE9-E6BC9D84091C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A4B6E6-C425-4938-8DE9-E6BC9D84091C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A4B6E6-C425-4938-8DE9-E6BC9D84091C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A4B6E6-C425-4938-8DE9-E6BC9D84091C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69C0BFDB-274C-4794-8CE0-B166A813DAD2}
+	EndGlobalSection
+EndGlobal
